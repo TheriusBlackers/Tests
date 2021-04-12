@@ -4,7 +4,7 @@ Los tests son pruebas que ire subiendo, para probarte como diseñador web Fronte
 
 # ¿Para que sirven?
 
-Sirven para ponerte a pruebeba a la hora de evaluar tu nivel
+Sirven para ponerte a prueba a la hora de evaluar tu nivel
 
 # Como hacer un Test
 
