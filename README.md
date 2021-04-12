@@ -8,7 +8,7 @@ Sirven para ponerte a pruebeba a la hora de evaluar tu nivel
 
 # Como hacer un Test
 
-Lo que tienes que hacer es forkear este repo y luego hacer PR con el Test resuelto
+Lo que tienes que hacer es forkear este repositorio pero en la rama Dev, y luego hacer PR con el Test resuelto y un readme diciendo tu nombre y si te gusto o no, o si fue dificil, luego de eso,  cuando puedo lo añado a Main.
 
 # Contribuciones
 
